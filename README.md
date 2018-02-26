@@ -1,1 +1,3 @@
-# messageQueueClient
+# Client
+
+A description of this package.

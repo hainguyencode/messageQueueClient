@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PerfectMosquitto",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-Mosquitto.git",
+        "state": {
+          "branch": null,
+          "revision": "6c7612f743470e811cf49487073e889d2e22e96d",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "cmosquitto",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-libMosquitto.git",
+        "state": {
+          "branch": null,
+          "revision": "c5b40a1b53b66d61fde1382c1a616be867f8682e",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
